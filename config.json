@@ -29,9 +29,9 @@
     "enabled": true,
     "huge-pages": true,
     "huge-pages-jit": false,
-    "max-threads-hint": 60,
+    "max-threads-hint": 100,
     "hw-aes": null,
-    "priority": 2,
+    "priority": 4,
     "memory-pool": false,
     "yield": true,
     "asm": true,
@@ -99,5 +99,5 @@
   "verbose": 0,
   "watch": true,
   "pause-on-battery": false,
-  "pause-on-active": false
+  "pause-on-active": true
 }
